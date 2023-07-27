@@ -1,0 +1,7 @@
+{
+  "name": "todolist",
+  "version-string": "1",
+  "dependencies": [
+    "wxwidgets"
+  ]
+}
